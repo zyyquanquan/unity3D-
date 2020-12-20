@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "test",
+"dataUrl": "build3.data.unityweb",
+"asmCodeUrl": "build3.asm.code.unityweb",
+"asmMemoryUrl": "build3.asm.memory.unityweb",
+"asmFrameworkUrl": "build3.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
